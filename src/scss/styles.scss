@@ -1,0 +1,28 @@
+/* You can add global styles to this file, and also import other style files */
+
+@import './Abstracts/variable';
+@import './Abstracts/mixin';
+
+@import './Base/animations';
+@import './Base/Base';
+@import './Base/typography';
+@import './Base/utilities';
+
+@import './Components/buttons';
+@import './Components/composition';
+@import './Components/skill-box';
+@import './Components/card';
+@import './Components/testimonials';
+@import './Components/bg-video';
+// main.scss
+@import './Components/form';
+@import './Components/popup';
+
+@import './Layout/grid';
+@import './Layout/header';
+@import './Layout/footer';
+
+
+@import './Pages/home';
+
+
